@@ -45,9 +45,9 @@ Descubra o Poder da Integração do Telegram: Descubra o potencial da integraç�
 Juntos, vamos revolucionar as tarefas administrativas e inaugurar uma nova era de eficiência, produtividade e inovação.
 
 <div align="center">
-<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/9573d0c8-3983-4477-b164-79d7d01c6510" width="150px" />
-<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/b255bebc-d1ef-4e68-bb54-6e711b4328f9" width="150px" />
-<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/cb5374ff-9a00-4c58-b677-e1ef9d68d594" width="150px" />
-<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/671076ff-f74c-4a4e-aaeb-774ad59b498a" width="150px" />
+<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/9573d0c8-3983-4477-b164-79d7d01c6510" width="300px" />
+<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/b255bebc-d1ef-4e68-bb54-6e711b4328f9" width="300px" />
+<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/cb5374ff-9a00-4c58-b677-e1ef9d68d594" width="300px" />
+<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/671076ff-f74c-4a4e-aaeb-774ad59b498a" width="300px" />
 </div>
 
