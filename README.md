@@ -43,3 +43,8 @@ Aprofunde-se na API GEMINI: Explore as complexidades da API GEMINI, permitindo q
 Descubra o Poder da Integração do Telegram: Descubra o potencial da integração da API do Telegram, desbloqueando comunicação e gerenciamento de tarefas perfeitos dentro de uma plataforma amplamente utilizada.
 
 Juntos, vamos revolucionar as tarefas administrativas e inaugurar uma nova era de eficiência, produtividade e inovação.
+
+<div align="center">
+<img src="https://github.com/Glauberrf/ALURA_Imersao_IA_Projeto_para_avaliacao/assets/22404885/cb5374ff-9a00-4c58-b677-e1ef9d68d594" width="700px" />
+</div>
+
